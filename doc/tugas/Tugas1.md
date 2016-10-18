@@ -1,6 +1,3 @@
-# Tugas 1
-##Kapita Selekta
+# Pertemuan 1
 
-NPM | Nama | Kelas |
-----|------|-------|
-1144067 | Anita Nur Aprilianti | D4 TI 3C |
+SSH Keygen merupakan sistem keamanan saat mengakses Repository git,tanpa ssh-keygen tidak bisa mengakses Git Bash dengan Git Hub. Git pull dapat mendownload file-file dari github ke window dan Git BPush dapat memasukan file-file yang telah dibuat diwindow dimasukan kembali ke dalam github.
