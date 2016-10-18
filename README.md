@@ -1,4 +1,4 @@
-# Kapita Selekta
+# Capita Selecta
 
 NPM | Name | Class |
 ----|------|-------|
