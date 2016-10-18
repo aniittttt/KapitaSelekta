@@ -1,6 +1,4 @@
-## KapitaSelekta
-This is The Fists Task
-
+# Kapita Selekta
 
 NPM | Nama | Kelas |
 ----|------|-------|
